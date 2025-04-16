@@ -1,0 +1,2 @@
+DATABASE_NAME=chatbot
+MONGO_URL=mongodb://db:27017
